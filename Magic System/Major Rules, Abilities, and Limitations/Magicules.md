@@ -1,0 +1,1 @@
+A magicule is a subatomic particle with 0 weight and 0 electromagnetic charge, but with a non-zero mana charge. The specific mana charge varies depending on the type of magicule.

@@ -6,3 +6,4 @@ Eras present in story:
 [[The Age of Teleportation]]
 Kills [[Character C]]
 Meets [[Character B]] periodically over the story
+Killed by [[Character G]] at their own request.

@@ -1,1 +1,2 @@
 - prior to [[The Age of Teleportation]], teleportation magic should be incredibly rare, if possible at all. In some cases around the end of [[The Age of Monuments]] teleportation can be seen to be advancing, but it shouldn't be anywhere near useful on empire scale yet.
+- "otherworlders" aka people who have been transported to this world from another should be incredibly rare until [[The Age of Demiplanes]] at least, but not commonplace until the later parts of [[The Age of Spaceflight]]
