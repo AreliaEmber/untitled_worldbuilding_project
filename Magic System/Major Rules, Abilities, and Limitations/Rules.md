@@ -1,7 +1,7 @@
 Main questions:
 
 What is it called?
-- (Insert name of magic system here whenever I think of one)
+- Magic... i guess
 What level of magic is it?
 - Medium-High: Kingdoms rise and fall at the whims of magic, but the world generally cannot be destroyed by it, and only in rare cases are major geographic features altered by magic
 Learned, inherent, or inherent-learned?
