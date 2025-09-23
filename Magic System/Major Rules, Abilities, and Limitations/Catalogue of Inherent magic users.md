@@ -1,0 +1,12 @@
+Listed by the era that they were born in:
+[[The Age of Beginnings]]
+	[[Character 2]]
+[[The Age of Swords]]
+	[[Character 1]]
+[[The Age of Magic]]
+	[[Character B]]
+	[[Character F]]
+[[The Age of Adventurers]]
+	[[Character A]]
+[[The Age of Heroes]]
+	[[Character C]]

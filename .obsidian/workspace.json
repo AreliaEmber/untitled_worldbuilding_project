@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c414bc8956e81443",
+        "id": "7eb67ec7bc5ff3e2",
         "type": "tabs",
         "children": [
           {
-            "id": "9c0dee6534e58d9a",
+            "id": "bf85258121d25011",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Magic System/Major Rules, Abilities, and Limitations/Catalogue of Inherent magic users.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Catalogue of Inherent magic users"
             }
           }
         ]
@@ -172,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 224.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,19 +191,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "92e24355970547e4",
+  "active": "bf85258121d25011",
   "lastOpenFiles": [
-    "World History/Rise and Fall of Cultures",
-    "Cultures and Ethnicities",
-    "World History/Cultural",
-    "World History/Political maps, Population, and Development",
-    "Geography and Planet Specs/Untitled",
-    "Characters",
-    "World History/Geographical Change over Time",
-    "Geography and Planet Specs/Continents and Islands",
-    "Geography and Planet Specs/Magic and Outer Space",
-    "Geography and Planet Specs/Magical Geography",
-    "World History/Scientific and Magical Inventions",
-    "Welcome.md"
+    "Characters/Major World Characters/Character 2.md",
+    "Characters/Major World Characters/Character 1.md",
+    "Characters/Perspective Characters/Character A.md",
+    "Characters/Perspective Characters/Character I.md",
+    "Characters/Perspective Characters/Character H.md",
+    "Characters/Perspective Characters/Character G.md",
+    "Characters/Perspective Characters/Character F.md",
+    "Characters/Perspective Characters/Character E.md",
+    "Characters/Perspective Characters/Character D.md",
+    "Characters/Perspective Characters/Character C.md",
+    "Characters/Perspective Characters/Character B.md",
+    "Magic System/Major Rules, Abilities, and Limitations/Catalogue of Inherent magic users.md",
+    "Magic System/Major Rules, Abilities, and Limitations/Rules.md",
+    "World History/Vague Timeline/Eras directory.md",
+    "World History/Vague Timeline/The Age of Adventurers.md",
+    "World History/Vague Timeline/The Age of Artificers.md",
+    "World History/Vague Timeline/The Age of Conflicts.md",
+    "World History/Vague Timeline/The Age of Devastation.md",
+    "World History/Vague Timeline/The Age of Spaceflight.md",
+    "World History/Vague Timeline/The Age of Colonization.md",
+    "World History/Vague Timeline/The Age of Heroes.md",
+    "World History/Vague Timeline/The Age of Magic.md",
+    "World History/Vague Timeline/The Age of Kings.md",
+    "World History/Vague Timeline/The Age of Nothing.md",
+    "World History/Vague Timeline/The Age of Beginnings.md",
+    "World History/Vague Timeline/The Age of Tribes.md",
+    "World History/Vague Timeline",
+    "Magic System/Major Rules, Abilities, and Limitations",
+    "Magic System/Spontaneous Magic",
+    "Magic System/Written Magic",
+    "Magic System/Ritual Magic",
+    "Characters/Miscellaneous Characters",
+    "Characters/Minor Story Characters",
+    "Characters/Minor World Characters",
+    "Characters/Major World Characters",
+    "Characters/Major Story Characters"
   ]
 }

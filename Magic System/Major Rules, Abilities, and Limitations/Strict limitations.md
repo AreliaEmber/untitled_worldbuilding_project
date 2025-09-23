@@ -1,0 +1,1 @@
+- prior to [[The Age of Teleportation]], teleportation magic should be incredibly rare, if possible at all. In some cases around the end of [[The Age of Monuments]] teleportation can be seen to be advancing, but it shouldn't be anywhere near useful on empire scale yet.
