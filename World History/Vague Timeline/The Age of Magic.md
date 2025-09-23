@@ -1,2 +1,6 @@
 Preceded by [[The Age of Kings]]
 Followed by [[The Age of Adventurers]]
+
+The age of magic began upon the discovery of [[Runes]] and the written magic that was made possible because of them, which kick starts the main calendar familiar to many in the following centuries and millennia. As such this age begins in the year 1 AR (After Runes) of the global calendar, and ends in the year 246 with the beginning of [[The Age of Adventurers]].
+
+This era is known for a steep rise in the number of mages active all across [[Planet Name Placeholder]], which came about directly because of the introduction of basic [[Runestones]], which allowed a fledgling mage to practice casting magic without having to have mastered the ability to control and project their own mana consciously. Because of the rapid change both to regular magic caster populations and with the introduction and development of magical tools and artefacts, this is an age of rapid societal change and instability, with political and cultural turmoil only beginning to settle in the latest decades of the age.

@@ -16,7 +16,7 @@ Story Eras:
 - [[The Age of Teleportation]]
 - [[The Age of Hubris]]
 - [[The Age of Ruins]]
-- [[The Age of Prosperity]]
+- [[The Age of Rebirth]]
 - [[The Age of Demiplanes]]
 - [[The Age of Artificers]]
 - [[The Age of Colonization]]

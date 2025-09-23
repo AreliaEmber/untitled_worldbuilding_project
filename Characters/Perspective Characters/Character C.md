@@ -2,3 +2,4 @@
 Eras present in Story:
 [[The Age of Heroes]]
 Kills [[Character D]]
+Killed by [[Character A]]
