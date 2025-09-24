@@ -1,0 +1,1 @@
+How exactly these are written isn't particularly story relevant.

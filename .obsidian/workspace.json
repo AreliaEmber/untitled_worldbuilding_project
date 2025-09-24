@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/Vague Timeline/Eras directory.md",
+                "file": "Geography and Planet Specs/Solar System and Galaxy/Star Name Placeholder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eras directory"
+              "title": "Star Name Placeholder"
             }
           }
         ]
@@ -152,16 +152,6 @@
             }
           },
           {
-            "id": "605f967e531c5e5a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "e2a11ad07ae1a97b",
             "type": "leaf",
             "state": {
@@ -172,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,47 +178,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "bf85258121d25011",
   "lastOpenFiles": [
+    "Geography and Planet Specs/Solar System and Galaxy/Star Name Placeholder.md",
+    "Geography and Planet Specs/Solar System and Galaxy/Planets and Moons/Planet Name Placeholder.md",
+    "Geography and Planet Specs/Solar System and Galaxy/Planets and Moons/Moon Name Placeholder.md",
+    "Cultures and Ethnicities/Languages/Language 1.md",
+    "Cultures and Ethnicities/Languages/Language 4.md",
+    "Cultures and Ethnicities/Languages/Language 3.md",
+    "Cultures and Ethnicities/Languages/Language 2.md",
+    "Magic System/Major Rules, Abilities, and Limitations/Strict limitations.md",
+    "Cultures and Ethnicities/Languages",
+    "Magic System/Major Rules, Abilities, and Limitations/Rules.md",
+    "Cultures and Ethnicities/Societal implications of magic.md",
+    "World History/Scientific and Magical Inventions/Teleportation Gates.md",
+    "World History/Scientific and Magical Inventions/Demiplane Generators.md",
+    "Geography and Planet Specs/Solar System and Galaxy/Planets and Moons",
+    "Geography and Planet Specs/Solar System and Galaxy/Galaxy Name Placeholder.md",
+    "Magic System/Written Magic/Runes.md",
+    "Geography and Planet Specs/Solar System and Galaxy",
+    "World History/Vague Timeline/Eras directory.md",
     "World History/Vague Timeline/The Age of Demiplanes.md",
-    "Magic System/Written Magic/Demiplane Generators.md",
     "World History/Vague Timeline/The Age of Rebirth.md",
     "World History/Vague Timeline/The Age of Ruins.md",
     "World History/Vague Timeline/The Age of Hubris.md",
     "World History/Geographical Change over Time/Crater A.md",
     "World History/Geographical Change over Time/Sea B.md",
     "World History/Geographical Change over Time/Sea A.md",
-    "World History/Vague Timeline/Eras directory.md",
     "Magic System/Major Rules, Abilities, and Limitations/Magicules/Mana Crystals.md",
     "Magic System/Major Rules, Abilities, and Limitations/Magicules/Magicules.md",
     "Magic System/Major Rules, Abilities, and Limitations/Magicules",
     "World History/Political maps, Population, and Development/City A.md",
     "World History/Vague Timeline/The Age of Teleportation.md",
-    "World History/Vague Timeline/The Age of Monuments.md",
-    "Magic System/Written Magic/Teleportation Gates.md",
-    "World History/Vague Timeline/The Age of Heroes.md",
     "Geography and Planet Specs/Bestiary and Herbarium/Magical Flora",
     "Geography and Planet Specs/Bestiary and Herbarium/Mundane Flora",
     "Geography and Planet Specs/Bestiary and Herbarium/Mundane Fauna",
     "Geography and Planet Specs/Bestiary and Herbarium/Magical Fauna",
     "Geography and Planet Specs/Bestiary and Herbarium/Great Beasts",
-    "Geography and Planet Specs/Bestiary and Herbarium",
-    "Characters/Perspective Characters/Character C.md",
-    "Characters/Perspective Characters/Character A.md",
-    "Characters/Perspective Characters/Character D.md",
-    "World History/Vague Timeline/The Age of Nothing.md",
-    "World History/Vague Timeline/The Age of Adventurers.md",
-    "Geography and Planet Specs/Continents and Islands/Continent 2.md",
-    "Geography and Planet Specs/Continents and Islands/Continent 1.md",
-    "Geography and Planet Specs/Continents and Islands/Continent 3.md",
-    "Geography and Planet Specs/Continents and Islands/Continent 4.md",
-    "Geography and Planet Specs/Continents and Islands/Continent 5.md",
-    "World History/Vague Timeline",
-    "Magic System/Major Rules, Abilities, and Limitations",
-    "Magic System/Spontaneous Magic"
+    "Geography and Planet Specs/Bestiary and Herbarium"
   ]
 }

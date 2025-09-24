@@ -1,0 +1,1 @@
+The star around which [[Planet Name Placeholder]] revolves, located in the central regions of the galactic habitable zone in [[Galaxy Name Placeholder]]. 
