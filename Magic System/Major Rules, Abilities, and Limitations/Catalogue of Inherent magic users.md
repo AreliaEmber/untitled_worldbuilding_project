@@ -5,7 +5,7 @@ Listed by the era that they were born in:
 	[[Character 1]]
 [[The Age of Magic]]
 	[[Character B]]
-	[[Character F]]
+	[[Erica]]
 [[The Age of Adventurers]]
 	[[Character A]]
 [[The Age of Heroes]]
