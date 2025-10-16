@@ -6,6 +6,7 @@
       {
         "id": "7eb67ec7bc5ff3e2",
         "type": "tabs",
+        "dimension": 53.05591677503251,
         "children": [
           {
             "id": "2d70a7ddc69b3425",
@@ -13,12 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Erica/Erica 001.md",
+                "file": "Story/Erica/Erica 002.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erica 001"
+              "title": "Erica 002"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f00f8a4a0fe1b002",
+        "type": "tabs",
+        "dimension": 46.94408322496749,
+        "children": [
+          {
+            "id": "19cf514d7076d588",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Story/Erica/Erica 002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Erica 002"
             }
           },
           {
@@ -161,8 +179,7 @@
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,41 +200,41 @@
   },
   "active": "2d70a7ddc69b3425",
   "lastOpenFiles": [
-    "Cultures and Ethnicities/Religions/Religion 1/Church.md",
-    "Story/Erica/Erica 001.md",
-    "Cultures and Ethnicities/Religions/Religion 1/Priest.md",
-    "Cultures and Ethnicities/Religions/Religion 1",
-    "Cultures and Ethnicities/Religions",
-    "Characters/Minor Story Characters/Penelope.md",
-    "Geography and Planet Specs/Solar System and Galaxy/Galaxy Name Placeholder.md",
-    "Story/Perspective Directories.md",
-    "Story/Directories/Directory (Erica).md",
-    "Story/Directories",
-    "Magic System/Major Rules, Abilities, and Limitations/Strict limitations.md",
-    "Story/Erica",
-    "Story",
-    "Magic System/Major Rules, Abilities, and Limitations/Rules of Magic.md",
-    "World History/Scientific and Magical Inventions/Teleportation Gates.md",
-    "World History/Scientific and Magical Inventions/Demiplane Generators.md",
-    "Characters/Minor Story Characters/Damien.md",
+    "Characters/Perspective Characters/Klaus.md",
     "Characters/Perspective Characters/Erica.md",
-    "Characters/Perspective Characters/Character G.md",
+    "Story/Erica/Erica 002.md",
+    "World History/Political maps, Population, and Development/Important Structures/Castles and Manors/Castle Nirana.md",
+    "Characters/Perspective Characters/Arthur.md",
+    "Story/Directories/Directory (Erica).md",
+    "Story/Erica/Erica 001.md",
+    "World History/Political maps, Population, and Development/Important Structures/Castles and Manors",
+    "World History/Political maps, Population, and Development/Important Structures",
+    "Characters/Major Story Characters/Gerald I.md",
+    "World History/Political maps, Population, and Development/Kingdom 1.md",
+    "Characters/Families and Houses/House Drelingen.md",
+    "Magic System/Major Rules, Abilities, and Limitations/Rules of Magic.md",
+    "Magic System/Major Rules, Abilities, and Limitations/Strict limitations.md",
+    "Magic System/Major Rules, Abilities, and Limitations/Catalogue of Inherent magic users.md",
     "World History/Vague Timeline/Eras directory.md",
-    "Characters/Perspective Characters/Character E.md",
-    "Characters/Perspective Characters/Character D.md",
-    "Characters/Perspective Characters/Character A.md",
-    "Characters/Perspective Characters/Character C.md",
-    "Characters/Perspective Characters/Character B.md",
-    "World History/Vague Timeline/The Age of Hubris.md",
-    "World History/Vague Timeline/The Age of Ruins.md",
     "World History/Vague Timeline/The Age of Demiplanes.md",
     "World History/Vague Timeline/The Age of Artificers.md",
+    "World History/Vague Timeline/The Age of Rebirth.md",
+    "World History/Vague Timeline/The Age of Ruins.md",
+    "World History/Vague Timeline/The Age of Hubris.md",
+    "World History/Vague Timeline/The Age of Teleportation.md",
+    "World History/Vague Timeline/The Age of Monuments.md",
+    "World History/Vague Timeline/The Age of Heroes.md",
     "World History/Vague Timeline/The Age of Adventurers.md",
     "World History/Vague Timeline/The Age of Magic.md",
-    "Cultures and Ethnicities/Languages",
-    "Geography and Planet Specs/Solar System and Galaxy/Planets and Moons",
-    "Geography and Planet Specs/Solar System and Galaxy",
-    "Magic System/Major Rules, Abilities, and Limitations/Magicules",
-    "Geography and Planet Specs/Bestiary and Herbarium/Magical Flora"
+    "Characters/Minor Story Characters/Damien.md",
+    "Characters/Families and Houses/House Kravel.md",
+    "Characters/Families and Houses",
+    "Untitled.base",
+    "Cultures and Ethnicities/Religions/Religion 1",
+    "Cultures and Ethnicities/Religions",
+    "Story/Directories",
+    "Story/Erica",
+    "Story",
+    "Cultures and Ethnicities/Languages"
   ]
 }

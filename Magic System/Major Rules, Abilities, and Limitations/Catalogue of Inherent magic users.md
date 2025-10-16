@@ -4,7 +4,7 @@ Listed by the era that they were born in:
 [[The Age of Swords]]
 	[[Character 1]]
 [[The Age of Magic]]
-	[[Character B]]
+	[[Arthur]]
 	[[Erica]]
 [[The Age of Adventurers]]
 	[[Character A]]
