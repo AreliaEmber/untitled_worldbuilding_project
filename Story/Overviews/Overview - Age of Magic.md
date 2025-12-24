@@ -1,0 +1,10 @@
+Reference to [[The Age of Magic]].
+
+This era contains perspectives from [[Erica]] [[Klaus]] [[Arthur]].
+
+Story starts around 5AR.
+
+Focus of the story in this age is following the development of magic runes and the effect that this has socially and politically. We start by following [[Erica]] and we learn about her [[Curse]] as it kills [[Damien]]. She is punished and sent to [[Castle Nirana]] where she is kept captive for much of the early story. Here, she meets [[Klaus]], and the story shifts to follow his perspective as well. [[Klaus]] introduces the audience to the current understanding of magic among academics of the world, and suggests a journey to search for more [[Inherent Magic]] users to aid in suppressing [[Erica]]'s [[Curse]]. He also mentions that he had heard rumours about the existence of [[Runes]] but that he could not verify the authenticity.
+
+On the journey to find [[Inherent Magic]] users, [[Klaus]] primarily asks around among merchants and nobility in each town or city that he goes to, but also checks in at orphanages when he has the chance, as he believes that many [[Inherent Magic]] users are passed over or ignored completely in childhood due to being commoners, and orphanages are the best place to meet many commoner children. He had developed his own methods for testing whether these children are inherent magic users or not, by seeing how they react to contact with certain crystals that he believes are particularly conductive to magic. By this method, he finds [[Arthur]] in an orphanage, and decides to officially adopt him and bring him along on the journey. Soon after, they find their first example of [[Runestones]], the [[Repelling Rune]]. [[Klaus]] is intrigued enough that he purchases it without being able to verify if it does anything at all. The two then journey back to [[Castle Nirana]] and meet [[Erica]] there. [[Erica]]'s [[Curse]] activates when she greets [[Arthur]], and his [[Inherent Magic]] is displayed for the first time as the lightning the [[Curse]] produces is redirected away from him before it can deal any damage.
+

@@ -6,7 +6,7 @@
       {
         "id": "7eb67ec7bc5ff3e2",
         "type": "tabs",
-        "dimension": 53.05591677503251,
+        "dimension": 79.67479674796748,
         "children": [
           {
             "id": "2d70a7ddc69b3425",
@@ -14,21 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Erica/Erica 002.md",
+                "file": "Magic System/Major Rules, Abilities, and Limitations/Rules of Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erica 002"
+              "title": "Rules of Magic"
             }
-          }
-        ]
-      },
-      {
-        "id": "f00f8a4a0fe1b002",
-        "type": "tabs",
-        "dimension": 46.94408322496749,
-        "children": [
+          },
           {
             "id": "19cf514d7076d588",
             "type": "leaf",
@@ -37,6 +30,23 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "27b572f695e9ae9c",
+        "type": "tabs",
+        "dimension": 20.32520325203252,
+        "children": [
+          {
+            "id": "c05442dbf81b3f17",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -96,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 306.5
   },
   "right": {
     "id": "15a758e024fa89a3",
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Erica/Erica 002.md",
+                "file": "Story/Story/Klaus 001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Erica 002"
+              "title": "Backlinks for Klaus 001"
             }
           },
           {
@@ -131,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Story/Story/Klaus 001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Klaus 001"
             }
           },
           {
@@ -160,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Story/Story/Klaus 001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Klaus 001"
             }
           },
           {
@@ -200,41 +210,41 @@
   },
   "active": "2d70a7ddc69b3425",
   "lastOpenFiles": [
-    "Characters/Perspective Characters/Klaus.md",
-    "Characters/Perspective Characters/Erica.md",
-    "Story/Erica/Erica 002.md",
-    "World History/Political maps, Population, and Development/Important Structures/Castles and Manors/Castle Nirana.md",
-    "Characters/Perspective Characters/Arthur.md",
-    "Story/Directories/Directory (Erica).md",
-    "Story/Erica/Erica 001.md",
-    "World History/Political maps, Population, and Development/Important Structures/Castles and Manors",
-    "World History/Political maps, Population, and Development/Important Structures",
-    "Characters/Major Story Characters/Gerald I.md",
-    "World History/Political maps, Population, and Development/Kingdom 1.md",
-    "Characters/Families and Houses/House Drelingen.md",
-    "Magic System/Major Rules, Abilities, and Limitations/Rules of Magic.md",
-    "Magic System/Major Rules, Abilities, and Limitations/Strict limitations.md",
+    "Maps/wind_ocean_climate.pdn.0.pdnSave",
     "Magic System/Major Rules, Abilities, and Limitations/Catalogue of Inherent magic users.md",
     "World History/Vague Timeline/Eras directory.md",
-    "World History/Vague Timeline/The Age of Demiplanes.md",
-    "World History/Vague Timeline/The Age of Artificers.md",
-    "World History/Vague Timeline/The Age of Rebirth.md",
-    "World History/Vague Timeline/The Age of Ruins.md",
-    "World History/Vague Timeline/The Age of Hubris.md",
-    "World History/Vague Timeline/The Age of Teleportation.md",
     "World History/Vague Timeline/The Age of Monuments.md",
     "World History/Vague Timeline/The Age of Heroes.md",
     "World History/Vague Timeline/The Age of Adventurers.md",
     "World History/Vague Timeline/The Age of Magic.md",
-    "Characters/Minor Story Characters/Damien.md",
+    "Geography and Planet Specs/Solar System and Galaxy/Planets and Moons/Planet Name Placeholder.md",
+    "Story/Story/Erica 001.md",
+    "Characters/Perspective Characters/Arthur.md",
+    "Characters/Perspective Characters/Character A.md",
+    "Characters/Perspective Characters/Character C.md",
+    "Characters/Major Story Characters/Gerald I.md",
     "Characters/Families and Houses/House Kravel.md",
+    "Characters/Families and Houses/House Drelingen.md",
+    "Story/Story/Klaus 001.md",
+    "Story/Story/Erica 002.md",
+    "World History/Vague Timeline/The Age of Beginnings.md",
+    "Story/Story/Index.md",
+    "Story/Overviews/Overview - Age of Magic.md",
+    "Magic System/Written Magic/Repelling Rune.md",
+    "Magic System/Spontaneous Magic/Curse.md",
+    "Magic System/Ritual Magic/Magic Circles.md",
+    "Magic System/Spontaneous Magic/Inherent Magic.md",
+    "Story/Directories/Directory (Klaus).md",
+    "Story/Directories/Directory (Erica).md",
+    "Story/Overviews",
+    "Story/Story/Part 1",
+    "Story/Story",
+    "Longform",
+    "World History/Political maps, Population, and Development/Important Structures/Castles and Manors",
+    "World History/Political maps, Population, and Development/Important Structures",
     "Characters/Families and Houses",
     "Untitled.base",
     "Cultures and Ethnicities/Religions/Religion 1",
-    "Cultures and Ethnicities/Religions",
-    "Story/Directories",
-    "Story/Erica",
-    "Story",
-    "Cultures and Ethnicities/Languages"
+    "Cultures and Ethnicities/Religions"
   ]
 }

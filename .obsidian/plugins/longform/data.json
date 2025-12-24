@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Story/Story/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-12-22T02:37:35.001Z",
+      "total": 0,
+      "drafts": {
+        "Story/Story/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Age of Magic": 0,
+            "Erica 001": 0,
+            "Erica 002": 0,
+            "Klaus 001": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-10-22T11:05:48.966Z",
+      "total": 0,
+      "drafts": {
+        "Story/Story/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Age of Magic": 0,
+            "Erica 001": 0,
+            "Erica 002": 0,
+            "Klaus 001": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-10-17T01:51:06.929Z",
+      "total": 2730,
+      "drafts": {
+        "Longform/Story/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Story/Story/Index.md": {
+          "total": 2730,
+          "scenes": {
+            "Age of Magic": 13,
+            "Erica 001": 1599,
+            "Erica 002": 1118,
+            "Klaus 001": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,3 +1,4 @@
+Characters able to use some form of [[Inherent Magic]].
 Listed by the era that they were born in:
 [[The Age of Beginnings]]
 	[[Character 2]]

@@ -1,0 +1,1 @@
+This usually refers to an unintentional application of [[Inherent Magic]], producing an effect that the user does not want. It can sometimes refer to the use of [[Runes]] in such a way that they are activated without the user's knowledge, therefore producing unwanted effects. In such a context this is usually not considered a "true" curse.

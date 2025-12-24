@@ -1,0 +1,1 @@
+Fundamentally this is just an advanced use of [[Runes]] and [[Learned Magic]] together to produce a more potent or more specific effect than can be achieved with just one or the other.
