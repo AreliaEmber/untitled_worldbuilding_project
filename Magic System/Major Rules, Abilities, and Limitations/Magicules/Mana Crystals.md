@@ -1,0 +1,1 @@
+This is a description of a group of minerals that store and conduct mana markedly more efficiently than most materials. Some examples of these crystals include diamond, ruby, sapphire, agate, emerald, topaz, etc.

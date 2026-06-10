@@ -1,0 +1,1 @@
+These entries reference specific individuals that can be considered legendary or renowned beasts.

@@ -1,0 +1,1 @@
+a great inland sea between [[Continent 1]] and [[Continent 2]]

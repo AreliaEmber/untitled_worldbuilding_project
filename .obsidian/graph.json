@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "path:\"Geography and Planet Specs\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5754367
-      }
-    },
-    {
       "query": "path:\"Cultures and Ethnicities\"  ",
       "color": {
         "a": 1,
@@ -48,6 +41,27 @@
         "a": 1,
         "rgb": 9636307
       }
+    },
+    {
+      "query": "path:\"Geography and Planet Specs/Bestiary and Herbarium\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65459
+      }
+    },
+    {
+      "query": "path:\"Geography and Planet Specs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3181765
+      }
+    },
+    {
+      "query": "path:Maps  ",
+      "color": {
+        "a": 1,
+        "rgb": 5712245
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181668,
-  "close": true
+  "scale": 0.3628873693012181,
+  "close": false
 }
