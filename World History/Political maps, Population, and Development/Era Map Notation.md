@@ -1,0 +1,23 @@
+- (F) Fragmentation
+	- (FH) Through hard times
+	- (FE) Elites take control
+		- (FEF) Feudalism
+	- (FU) Reforming into new empires/dynasties (new states)
+- (U) groups join together - likely to create democracy or oligarchy of some kind
+	- (UC) Cultural union/unity through shared culture
+	- (UE) Existential union/external threat - can be disparate cultures
+- (E) Expansion
+	- (EC) absorption conquest
+	- (ED) displacement conquest
+	- (EI) expansion of ideas (new areas of that type but not the same polities)
+- (I) Imperialism
+	- (ID) Adding to periphery of empire, direct imperialism
+	- (II) Indirect imperialism, add to sphere of influence
+- (T) Transition or transfer of power
+- (M) Migration to new lands
+- (NC) no significant changes
+- (G) Genesis of something new
+	- (GS) new primary state (assumed autocratic)
+	- (GSD) new primary democratic state
+	- (GD) new democratic settled areas
+	- (GA) new autocratic settled areas
